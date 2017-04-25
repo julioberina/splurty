@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'attractiveregular';
-    src: url('attractive-regular-webfont.woff2') format('woff2'),
-         url('attractive-regular-webfont.woff') format('woff');
+    src: font_url('attractive-regular-webfont.woff2') format('woff2'),
+         font_url('attractive-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'attractiveitalic';
-    src: url('attractive-italic-webfont.woff2') format('woff2'),
-         url('attractive-italic-webfont.woff') format('woff');
+    src: font_url('attractive-italic-webfont.woff2') format('woff2'),
+         font_url('attractive-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
